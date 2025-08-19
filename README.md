@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Md. Shariar Hosain Sanny
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering** student and **Full-Stack Developer** from Dhaka, Bangladesh, with a strong focus on **MERN stack development** and **problem-solving**.
+Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering** student and **Full-Stack Developer** from Dhaka, Bangladesh, with a strong focus on **Backend Development** and **problem-solving**.
 
 ## 🚀 About Me
 
 - 🎓 **CSE Student** at American International University Bangladesh (AIUB) - CGPA: 3.86
-- 💼 **MERN Backend Developer** at MAK Tech Solution
+- 💼 **Backend Developer** at MAK Tech Solution
 - 🏆 **4x Dean's Award** recipient for outstanding academic performance
 - 🔭 Currently working on **real-time applications** and **full-stack web solutions**
-- 🌱 Always learning new technologies and exploring **Data Science** with R
+- 🌱 Always learning new technologies and exploring **Data Science**
 - 💡 Passionate about **teaching**, **mentorship**, and creating **innovative solutions**
 - ⚡ Fun fact: I love playing cricket and believe in learning through teaching!
 
@@ -96,17 +96,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering** 
 
 </div>
 
-## 📅 Coding Activity
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 35 mins   ████████████░░░░░   48.2%
-PHP          4 hrs 12 mins   ██████░░░░░░░░░░░   23.6%
-TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░   15.4%
-CSS          1 hr 23 mins    ██░░░░░░░░░░░░░░░    7.8%
-R            52 mins         █░░░░░░░░░░░░░░░░    4.9%
-```
-<!--END_SECTION:waka-->
 
 ## 💼 What I'm Currently Working On
 
@@ -131,7 +121,7 @@ R            52 mins         █░░░░░░░░░░░░░░░░
 
 ## 💼 Professional Experience
 
-### MERN Backend Developer
+### Backend Developer
 **MAK Tech Solution**
 - 🚀 Developing scalable backend solutions
 - 🔧 Working with modern JavaScript frameworks
