@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c853,25:00e5ff,50:2979ff,75:aa00ff,100:d500f9&height=240&section=header&text=SHARIAR%20HOSAIN%20SANNY&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=48&desc=Software%20Engineer%20%7C%20Node.js%20%7C%20Microservices%20%7C%20System%20Design&descAlignY=70&descSize=17&descColor=e0f7fa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,25:00e5ff,50:2979ff,75:aa00ff,100:d500f9&height=220&section=header&text=SHARIAR%20HOSAIN%20SANNY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Node.js%20%7C%20Microservices%20%7C%20System%20Design&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -142,20 +142,11 @@ const sanny = {
 
 ---
 
-# GitHub Stats
+# GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shariarhosain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=d500f9&text_color=ffffff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shariarhosain&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=ff2975&currStreakLabel=00e5ff" alt="Streak"/>
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shariarhosain&custom_title=Contribution%20Graph&bg_color=0d1117&color=00e5ff&line=d500f9&point=ffffff&area=true&area_color=2a0845&hide_border=true" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shariarhosain&theme=radical&no-frame=false&margin-w=6&column=7" alt="Trophies"/>
 
 </div>
 
