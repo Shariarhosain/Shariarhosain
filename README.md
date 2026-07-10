@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,25:00e5ff,50:2979ff,75:aa00ff,100:d500f9&height=220&section=header&text=SHARIAR%20HOSAIN%20SANNY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Node.js%20%7C%20Microservices%20%7C%20System%20Design&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SHARIAR%20HOSAIN%20SANNY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Node.js%20%7C%20Microservices%20%7C%20System%20Design&descAlignY=58&descSize=16&descColor=cfd8dc" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2979FF&center=true&vCenter=true&width=820&lines=Software+Engineer+%40+MAK+Tech;Node.js+%C2%B7+NestJS+%C2%B7+Redis+%C2%B7+RabbitMQ;Microservices+%7C+Stripe+%7C+Real-Time+Systems;API+response+time+reduced+by+30%25;Building+systems+that+scale...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=820&lines=Software+Engineer+%40+MAK+Tech;Node.js+%C2%B7+NestJS+%C2%B7+Redis+%C2%B7+RabbitMQ;Microservices+%7C+Stripe+%7C+Real-Time+Systems;API+response+time+reduced+by+30%25;Building+systems+that+scale...)](https://git.io/typing-svg)
 
 </div>
 
@@ -115,10 +115,10 @@ const sanny = {
 
 <div align="center">
 
-![Achievement](https://img.shields.io/badge/API_Response_Time_--30%25-success?style=for-the-badge)
-![Achievement](https://img.shields.io/badge/Led_5_Developers-blueviolet?style=for-the-badge)
-![Achievement](https://img.shields.io/badge/15%25_Ahead_of_Schedule-ff69b4?style=for-the-badge)
-![Achievement](https://img.shields.io/badge/Team_Productivity_+50%25-orange?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/API_Response_Time_--30%25-2c5364?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/Led_5_Developers-2c5364?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/15%25_Ahead_of_Schedule-2c5364?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/Team_Productivity_+50%25-2c5364?style=for-the-badge)
 
 </div>
 
@@ -146,7 +146,7 @@ const sanny = {
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shariarhosain&custom_title=Contribution%20Graph&bg_color=0d1117&color=00e5ff&line=d500f9&point=ffffff&area=true&area_color=2a0845&hide_border=true" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shariarhosain&custom_title=Contribution%20Graph&bg_color=0d1117&color=8b949e&line=4a90d9&point=c9d1d9&area=true&area_color=1f2a3a&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -164,7 +164,7 @@ const sanny = {
 </td>
 <td align="center">
 
-![GPA](https://img.shields.io/badge/GPA-3.85%20%2F%204.00-0288D1?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-3.85%20%2F%204.00-2c5364?style=for-the-badge)
 
 </td>
 </tr>
@@ -177,7 +177,7 @@ const sanny = {
 </td>
 <td align="center">
 
-![GPA](https://img.shields.io/badge/GPA-5.00%20%2F%205.00-22C55E?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-5.00%20%2F%205.00-455a64?style=for-the-badge)
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ const sanny = {
 </td>
 <td align="center">
 
-![GPA](https://img.shields.io/badge/GPA-5.00%20%2F%205.00-3B82F6?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-5.00%20%2F%205.00-455a64?style=for-the-badge)
 
 </td>
 </tr>
@@ -209,12 +209,12 @@ const sanny = {
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shariarhosain&color=d500f9&style=for-the-badge&label=PROFILE+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Shariarhosain&color=2c5364&style=for-the-badge&label=PROFILE+VISITORS)
 
 <br/>
 
 *Build systems that scale. Write code that teaches.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,25:00e5ff,50:2979ff,75:aa00ff,100:d500f9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
 </div>
